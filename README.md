@@ -21,9 +21,8 @@
 
 - 💬 Boasting a rich professional background, I have garnered valuable experience by working with more than three companies, each contributing to my diverse skill set and profound **understanding of the industry**
 
-<p> <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onikranf&show_icons=true&theme=dark&locale=en&layout=compact" alt="onikranf" /></p>
+<p> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=onikranf&show_icons=true&theme=dark&locale=en&layout=compact" alt="onikranf" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=onikranf&theme=dark" alt="onikranf" /></p> </p>
 
 
 <h3 align="center"><strong>Technologies That I Know</strong></h3>
