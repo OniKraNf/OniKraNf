@@ -23,8 +23,6 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onikranf&show_icons=true&theme=dark&locale=en&layout=compact" alt="onikranf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onikranf&show_icons=true&theme=dark&locale=en" alt="onikranf" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onikranf&theme=dark" alt="onikranf" /></p>
 
 <h3 align="center"><strong>Technologies That I Know</strong></h3>
