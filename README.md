@@ -1,6 +1,6 @@
 <p align="center"> <img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="onikranf" /></p>
 
-<h1 align="center">Hi 👋, I'm .kranf</h1>
+<h1 align="center">Welcome to my Git. My name is .kranf</h1>
 <h3 align="center">Machine Learning/Data Science/Flutter Developer</h3>
 
 - 💼 I’m currently working on **Python, Dart, Flutter**
