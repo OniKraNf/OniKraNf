@@ -34,3 +34,9 @@
 <p align="left">
 <a href="https://discord.gg/633057226361274403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="633057226361274403" height="30" width="40" /></a>
 </p>
+
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
