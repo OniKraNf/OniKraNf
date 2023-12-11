@@ -5,7 +5,7 @@
   Welcome to my Git. My name is .kranf <img src="https://i.ibb.co/Wtk2f3N/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="neuron" width="40" height="40"/>
 </h1>
 
-<p align="center"><img align="center" src="https://i.ibb.co/y05391Y/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="hello" height="600"/></p>
+<p align="center"><img align="center" src="https://i.ibb.co/y05391Y/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="hello" height="300"/></p>
 
 <h3 align="center">Machine Learning/Data Science/Flutter Developer</h3>
 
