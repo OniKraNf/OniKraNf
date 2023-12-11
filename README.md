@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="android" width="40" height="40"/><h1 align="center">Hi 👋, I'm .kranf</h1></p>
+<h1 align="center">Hi 👋, I'm .kranf</h1>
 <h3 align="center">Machine Learning/Data Science/Flutter Developer</h3>
 
 - 💼 I’m currently working on **Python, Dart, Flutter**
