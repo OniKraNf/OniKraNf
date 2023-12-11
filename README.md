@@ -7,7 +7,7 @@
 
 <p align="center"><img align="center" src="https://i.ibb.co/p0mtRwD/12313.gif" alt="hello"/></p>
 
-<h1 align="center">Machine Learning/Data Science/Flutter Developer</h1>
+<h2 align="center">Machine Learning/Data Science/Flutter Developer</h2>
 
 - 💼 I’m currently working on **Python, Dart, Flutter**
 
