@@ -1,4 +1,4 @@
-<p><img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="onikranf" /></p>
+<p align="center"> <img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="onikranf" /></p>
 
 <h1 align="center">Hi 👋, I'm .kranf</h1>
 <h3 align="center">Machine Learning/Data Science/Flutter Developer</h3>
