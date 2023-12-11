@@ -1,9 +1,9 @@
 <p align="center"> <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="loading" /></p>
 
-<h2 align="center"> 
-<img src="https://i.ibb.co/Wtk2f3N/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="neuron" width="40" height="40"/> 
-  Welcome to my Git. My name is .kranf <img src="https://i.ibb.co/Wtk2f3N/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="neuron" width="40" height="40"/>
-</h2>
+<h3 align="center"> 
+<img src="https://i.ibb.co/Wtk2f3N/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="neuron" width="40" height="80"/> 
+  Welcome to my Git. My name is .kranf <img src="https://i.ibb.co/Wtk2f3N/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="neuron" width="40" height="80"/>
+</h3>
 
 <p align="center"><img align="center" src="https://i.ibb.co/p0mtRwD/12313.gif" alt="hello"/></p>
 
