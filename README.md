@@ -1,3 +1,5 @@
+<p><img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="onikranf" /></p>
+
 <h1 align="center">Hi 👋, I'm .kranf</h1>
 <h3 align="center">Machine Learning/Data Science/Flutter Developer</h3>
 
@@ -13,7 +15,6 @@
 
 - 💬 Boasting a rich professional background, I have garnered valuable experience by working with more than three companies, each contributing to my diverse skill set and profound **understanding of the industry**
   
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onikranf&show_icons=true&theme=dark&locale=en&layout=compact" alt="onikranf" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onikranf&show_icons=true&theme=dark&locale=en" alt="onikranf" /></p>
