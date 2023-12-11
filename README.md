@@ -7,7 +7,7 @@
 
 <p align="center"><img align="center" src="https://i.ibb.co/p0mtRwD/12313.gif" alt="hello"/></p>
 
-<h3 align="center">Machine Learning/Data Science/Flutter Developer</h3>
+<h1 align="center">Machine Learning/Data Science/Flutter Developer</h1>
 
 - 💼 I’m currently working on **Python, Dart, Flutter**
 
@@ -34,7 +34,3 @@
 <p align="left">
 <a href="https://discord.gg/633057226361274403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="633057226361274403" height="30" width="40" /></a>
 </p>
-
-h3 {
-  font-size: 1000px;
-}
