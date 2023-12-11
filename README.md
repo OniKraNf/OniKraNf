@@ -6,7 +6,7 @@
 
 </h1>
 
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="statistic" height="300"/></p>
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="statistic" height="300" width="500"/></p>
 
 <h3 align="center">Machine Learning/Data Science/Flutter Developer</h3>
 
